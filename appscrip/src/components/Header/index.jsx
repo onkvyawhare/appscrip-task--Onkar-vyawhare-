@@ -81,37 +81,38 @@ export default function Header({ ...props }) {
                 <Link href="#">
                   <Img
                     src="img_contrast.svg"
-                    width={24}
-                    height={24}
+                    width={180}
+                    height={180}
                     alt="contrast"
-                    className="h-[24px] w-[24px]"
+                    
                   />
                 </Link>
                 <Link href="#">
                   <Img
                     src="img_favorite.svg"
-                    width={24}
-                    height={24}
+                    width={180}
+                    height={180}
                     alt="favorite"
-                    className="h-[24px] w-[24px]"
+                   
                   />
                 </Link>
                 <Link href="#">
                   <Img
                     src="img_bag.svg"
-                    width={24}
-                    height={24}
+                    width={180}
+                    height={180}
                     alt="bag"
-                    className="h-[24px] w-[24px]"
+                    
                   />
                 </Link>
                 <Link href="#">
                   <Img
                     src="img_lock.svg"
-                    width={24}
-                    height={24}
+                    width={180}
+                    height={180}
                     alt="lock"
-                    className="h-[24px] w-[24px]"
+                     
+                    
                   />
                 </Link>
                 <div className="flex items-center gap-[5px]">
@@ -121,10 +122,11 @@ export default function Header({ ...props }) {
                   <Link href="#">
                     <Img
                       src="img_checkmark.svg"
-                      width={16}
-                      height={16}
+                      width={80}
+                      height={80}
                       alt="checkmark"
-                      className="h-[16px] w-[16px]"
+                      
+                     
                     />
                   </Link>
                 </div>

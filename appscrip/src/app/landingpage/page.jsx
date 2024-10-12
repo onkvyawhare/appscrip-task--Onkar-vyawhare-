@@ -36,7 +36,7 @@ export default function WebPLPWithFilterPage() {
 
   return (
     <div className="flex w-full flex-col items-center gap-[58px] bg-white-A700 sm:gap-[29px]">
-      {/* header section */}
+      {/* header/nav section */}
       <Header className="self-stretch" />
 
       {/* hero section */}

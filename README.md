@@ -1,6 +1,6 @@
 # appscrip-task--Onkar-vyawhare-
 
-# Appscrip-task-yourname
+
 
 ## Overview
 This is a Next.js application showcasing a product page with server-side rendering and responsive design.
@@ -20,7 +20,7 @@ To run this project locally:
    npm install
    npm run dev
 
-   This project is hosted on Vercel. 
+   This project is hosted on Vercel. link:https://appscrip-task-onkar-vyawhare.vercel.app/
 
 
 
